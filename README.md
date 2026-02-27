@@ -48,6 +48,3 @@ Reusable CLI pipelines for data-driven scientific workflows
 
 ## 📫 Connect With Me
 🔗 LinkedIn: www.linkedin.com/in/rrsathe
-
-![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rrsathe&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rrsathe&layout=compact)
