@@ -1,1 +1,20 @@
-Currently serving as the Director of Dynamic Interpolation for Distributed Dotfile Orchestration and Ephemeral Window Management under the Open Ambiguity Foundation, where I oversee heuristic reconfiguration of Rust-based terminal pipelines and engage in recursive Vim ecosystem cultivation. Formerly Head of Latency-Aware Meta-Configuration at the Global Foundation for Situational Systematic Dependence, where I was responsible for the safe and idempotent deployment of existentially dubious C++ templates at compile time. Prior to that, I was Lead Team Lead at Corpcorp, where I pioneered the bi-weekly rotation of tiling window managers and introduced Agile-compatible debugging rituals using valgrind, gdb, and controlled swearing. My work focuses on leveraging modern tooling (Rust, Neovim, Arch Linux) for maximum overengineering, all in pursuit of a slightly more elegant way to open htop.
+Hi, I'm Rahul 👋  
+B.Tech in Biotechnology @ IIT Guwahati  
+Interested in Machine Learning, Scientific Computing, and AI Systems  
+
+🔬 Current Interests:
+- Machine Learning & Deep Learning
+- Retrieval-Augmented Generation (RAG)
+- Reinforcement Learning
+
+🛠️ Tech Stack:
+C++ | Python | PyTorch | NumPy | Linux | Git | SDL
+
+🚀 Projects:
+- Trading Server Engine (C++)
+- Multimodal RAG Systems
+- ML Pipelines for Scientific Computing
+
+📫 Open to:
+- AI/ML Internships
+- Systems + ML roles
