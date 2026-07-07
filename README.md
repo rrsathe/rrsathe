@@ -51,8 +51,9 @@ Recent contributions include:
 ### Languages & Systems
 ![C++ programming language badge](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Python programming language badge](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R programming language badge](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![MATLAB programming language badge](https://img.shields.io/badge/MATLAB-E15718?style=flat-square&logo=mathworks&logoColor=white)
 ![Linux operating system badge](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![CMake build system badge](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
 
 ### Machine Learning & Scientific Computing
 ![PyTorch machine learning framework badge](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
