@@ -5,7 +5,7 @@
 🎓 **Pre-Final Year B.Tech (Biotechnology) @ IIT Guwahati** | 🤖 **Core Member @ IITG.ai**
 
 <p align="left">
-  <img src="https://komarev.com/normal-badge/?username=rrsathe&label=Profile%20Views&color=00599C&style=flat-square" alt="Profile views count badge" />
+  <img src="https://komarev.com/ghpvc/?username=rrsathe&color=00599c&style=flat-square&label=Profile%20Views" alt="Profile views count badge" />
 </p>
 
 ---
@@ -82,9 +82,9 @@ Recent contributions include:
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrsathe&layout=compact&theme=dark&hide_border=true" alt="Chart showing Rahul's most frequently used programming languages on GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rrsathe&layout=compact&theme=dark&hide_border=true" alt="Chart showing Rahul's most frequently used programming languages on GitHub" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rrsathe&theme=dark&hide_border=true" alt="Dynamic statistics showing Rahul's current and longest GitHub contribution streaks" />
+  <img src="https://streak-stats.demolab.com/?user=rrsathe&theme=dark&hide_border=true" alt="Dynamic statistics showing Rahul's current and longest GitHub contribution streaks" />
 </p>
 
 ---
@@ -93,6 +93,7 @@ Recent contributions include:
 
 [![LinkedIn profile link](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rrsathe)
 [![GitHub profile link](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rrsathe)
+[![GitLab profile link](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/rrsathe)
 [![Email contact link](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:07rahulsathe@gmail.com)
 
 ---
