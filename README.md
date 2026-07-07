@@ -4,10 +4,6 @@
 
 🎓 **Pre-Final Year B.Tech (Biotechnology) @ IIT Guwahati** | 🤖 **Core Member @ IITG.ai**
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=rrsathe&color=00599c&style=flat-square&label=Profile%20Views" alt="Profile views count badge" />
-</p>
-
 ---
 
 ## 🧠 About Me
@@ -82,8 +78,6 @@ Recent contributions include:
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rrsathe&layout=compact&theme=dark&hide_border=true" alt="Chart showing Rahul's most frequently used programming languages on GitHub" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://streak-stats.demolab.com/?user=rrsathe&theme=dark&hide_border=true" alt="Dynamic statistics showing Rahul's current and longest GitHub contribution streaks" />
 </p>
 
