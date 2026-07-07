@@ -23,17 +23,20 @@ I'm a pre-final year Biotechnology undergraduate at **IIT Guwahati** passionate 
 
 ## ⭐ Featured Projects
 
-### 🔬 [HYFA: Hypergraph Gene Expression Imputation](https://github.com/rrsathe)
+### 🔬 [HYFA: Hypergraph Gene Expression Imputation](https://github.com/rrsathe/TopoHYFA)
 Deep learning research using GTEx datasets for blood-to-heart transcriptome prediction. Leveraging hypergraph neural networks to model complex multi-tissue gene interactions and recover missing expression data.
 
-### ⚡ [GROMACS Contributions](https://gitlab.com/gromacs/gromacs)
-Active open-source contributor to GROMACS, one of the world's most widely used molecular dynamics packages. Contributing modern C++ codebase improvements, bug fixes, and documentation.
+### ⚡ [GROMACS Contributions](https://github.com/rrsathe/gromacs)
+Active open-source contributor to GROMACS, one of the world's most widely used molecular dynamics packages. Contributing modern C++ codebase improvements, bug fixes, and documentation (contributions tracked on [GitLab](https://gitlab.com/gromacs/gromacs)).
 
-### 🧠 [Causal RAG](https://github.com/rrsathe)
+### 🧠 [Causal RAG](https://github.com/rrsathe/causal-rag-rca)
 A graph-based retrieval and reasoning framework designed for large-scale Root Cause Analysis, combining semantic vector search with structured causal inference models.
 
-### ⚙️ [Trading Engine](https://github.com/rrsathe)
+### ⚙️ [Trading Server Engine](https://github.com/rrsathe/TradingServerEngine)
 A high-performance, low-latency C++ server architecture inspired by modern financial exchange systems, optimized for throughput and deterministic execution.
+
+### 🍃 [GreenPipeline AI](https://github.com/rrsathe/greenpipeline-ai)
+A graph-based CI/CD optimizer that compiles GitLab pipelines into efficient Directed Acyclic Graphs (DAGs), reducing runtime and carbon footprint by up to 60%.
 
 ---
 
