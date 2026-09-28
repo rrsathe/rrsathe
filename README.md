@@ -1,99 +1,62 @@
-# Hi, I'm Rahul Sathe 👋
+# Hi, I'm Rahul Sathe
 
-### Building AI Systems • Scientific Computing • High-Performance C++
+**AI Systems & High-Performance Software Engineer**  
+B.Tech @ IIT Guwahati | Core Member @ IITG.ai | Open-Source Contributor to GROMACS
 
-🎓 **Pre-Final Year B.Tech (Biotechnology) @ IIT Guwahati** | 🤖 **Core Member @ IITG.ai**
+Building low-latency C++ systems, graph-based AI architectures, and production MLOps pipelines. My public work focuses on high-throughput software engines, causal inference frameworks, and computational biology.
 
----
-
-## 🧠 About Me
-
-I'm a pre-final year Biotechnology undergraduate at **IIT Guwahati** passionate about building intelligent systems that combine machine learning, scientific computing, and modern C++. I enjoy contributing to open source, developing performance-critical software, and applying AI to computational biology problems. 
+[LinkedIn](https://linkedin.com/in/rrsathe) · [GitHub](https://github.com/rrsathe) · [GitLab](https://gitlab.com/rrsathe) · [Email](mailto:07rahulsathe@gmail.com)
 
 ---
 
-## 🚀 Currently Working On
+## Start Here
 
-- 🧬 **Hypergraph-based Gene Expression Imputation (HYFA)**: Deep learning research for blood-to-heart transcriptome prediction.
-- ⚙️ **GROMACS**: Contributing modern C++ improvements and bug fixes to high-performance molecular dynamics software.
-- 🤖 **Retrieval-Augmented Generation**: Developing causal reasoning and graph-based retrieval architectures.
-- 🖥️ **Modern C++ Systems**: Designing low-latency software engines and parallel applications.
-
----
-
-## ⭐ Featured Projects
-
-### 🔬 [HYFA: Hypergraph Gene Expression Imputation](https://github.com/rrsathe/TopoHYFA)
-Deep learning research using GTEx datasets for blood-to-heart transcriptome prediction. Leveraging hypergraph neural networks to model complex multi-tissue gene interactions and recover missing expression data.
-
-### ⚡ [GROMACS Contributions](https://github.com/rrsathe/gromacs)
-Active open-source contributor to GROMACS, one of the world's most widely used molecular dynamics packages. Contributing modern C++ codebase improvements, bug fixes, and documentation (contributions tracked on [GitLab](https://gitlab.com/gromacs/gromacs)).
-
-### 🧠 [Causal RAG](https://github.com/rrsathe/causal-rag-rca)
-A graph-based retrieval and reasoning framework designed for large-scale Root Cause Analysis, combining semantic vector search with structured causal inference models.
-
-### ⚙️ [Trading Server Engine](https://github.com/rrsathe/TradingServerEngine)
-A high-performance, low-latency C++ server architecture inspired by modern financial exchange systems, optimized for throughput and deterministic execution.
-
-### 🍃 [GreenPipeline AI](https://github.com/rrsathe/greenpipeline-ai)
-A graph-based CI/CD optimizer that compiles GitLab pipelines into efficient Directed Acyclic Graphs (DAGs), reducing runtime and carbon footprint by up to 60%.
+- **[Trading Server Engine](https://github.com/rrsathe/TradingServerEngine)** — C++20 price-time priority matching engine with gRPC/Protobuf APIs, thread-safe execution, and 5,000 updates/sec throughput.
+- **[Causal RAG](https://github.com/rrsathe/causal-rag-rca)** — Root-cause attribution framework over 19,000+ transcripts using Memgraph dynamic subgraphs and Dialog2Flow clustering (Inter IIT Tech Meet 14.0).
+- **[TopoHYFA: Hypergraph Gene Imputation](https://github.com/rrsathe/TopoHYFA)** — Topology-aware hypergraph neural network recovering critical gene signals from cross-tissue variance collapse; evaluated on GTEx (IEEE CMES 2027 submission).
+- **[MLOps Demand Forecasting](https://github.com/rrsathe/mlops-demand-forecasting)** — End-to-end production pipeline on 61k+ records with Feast feature store, Airflow DAG orchestration, and Evidently AI monitoring.
 
 ---
 
-## 🌍 Open Source Contributions
+## Featured Projects & Systems
 
-I enjoy contributing to projects that combine performance engineering, scientific computing, and modern C++.
+### High-Performance Systems & Infrastructure
+- **[Trading Server Engine](https://github.com/rrsathe/TradingServerEngine)**
+  - Implemented price-time priority order book supporting Limit, Market, FOK, FAK, and GFD execution modes.
+  - Engineered thread-safe matching with $O(1)$ order cancellation and background worker for order expiration.
+  - Decoupled market feed via Observer pattern with PostgreSQL audit persistence; benchmarked 5k updates/s.
+- **[GROMACS Open-Source Contributions](https://gitlab.com/gromacs/gromacs)**
+  - Active contributor to one of the world's most widely used molecular dynamics simulation packages.
+  - Refactoring codebase to adopt modern C++ patterns, resolving issues, and improving developer documentation (tracked on [GitLab](https://gitlab.com/gromacs/gromacs)).
+- **[GreenPipeline AI](https://github.com/rrsathe/greenpipeline-ai)**
+  - Graph-based CI/CD pipeline optimizer that compiles GitLab CI workflows into Directed Acyclic Graphs (DAGs), reducing runtime and compute footprint by up to 60%.
 
-Recent contributions include:
-- **[GROMACS](https://gitlab.com/gromacs/gromacs)**: Refactoring codebase to adopt modern C++ patterns, resolving issues, and improving developer documentation.
-
----
-
-## 🛠 Tech Stack
-
-### Languages & Systems
-![C++ programming language badge](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Python programming language badge](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![R programming language badge](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![MATLAB programming language badge](https://img.shields.io/badge/MATLAB-E15718?style=flat-square&logo=mathworks&logoColor=white)
-![Linux operating system badge](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-### Machine Learning & Scientific Computing
-![PyTorch machine learning framework badge](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![NumPy scientific computing badge](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas data analysis badge](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Scikit-Learn machine learning library badge](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-
-### Development & DevOps
-![Git version control badge](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker containerization badge](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions CI CD tool badge](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+### Graph ML, Generative AI & MLOps
+- **[Causal RAG (Inter IIT Tech Meet 14.0)](https://github.com/rrsathe/causal-rag-rca)**
+  - Built root-cause attribution system across 19,000+ dialogue transcripts using Memgraph graph databases.
+  - Developed Dialog2Flow via agglomerative clustering to project conversational dialogues into directed causal graphs.
+  - Traversed causal chains via probabilistic backward BFS, achieving 0.81 faithfulness score on evaluations.
+- **[TopoHYFA (Computational Biology & Graph ML)](https://github.com/rrsathe/TopoHYFA)**
+  - Diagnosed cross-tissue variance collapse (16.2% retained) in hypergraph factorization models on GTEx cohorts.
+  - Formulated Gaussian log-likelihood ratio features across a 200-edge network, elevating classification AUC from 0.465 to 0.615 ($p = 0.028$).
+- **[MLOps Demand Forecasting System](https://github.com/rrsathe/mlops-demand-forecasting)**
+  - 168-hour load forecasting pipeline orchestrating 43 leakage-free time-series features in Feast.
+  - Automated 3 Airflow DAGs, MLflow experiment tracking, Dockerized FastAPI inference (<200ms latency), and data drift monitoring with Evidently AI.
 
 ---
 
-## 📚 Currently Learning
+## Technical Competencies
 
-- ⚙️ **Modern C++23** — Advanced template metaprogramming, concepts, ranges, and coroutines.
-- ⚡ **High Performance Computing** — Distributed memory systems, MPI, OpenMP, and cluster computing.
-- 🤖 **LLM Systems & Distributed AI** — Model inference optimization, quantization, and GPU programming (CUDA).
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=rrsathe&theme=dark&hide_border=true" alt="Dynamic statistics showing Rahul's current and longest GitHub contribution streaks" />
-</p>
+- **Languages:** C++ (C++20), Python, C, SQL, Bash, Go
+- **Systems & Architecture:** Multithreading, Concurrency, gRPC, Protocol Buffers, Linux, Docker, CMake, GoogleTest
+- **AI & Machine Learning:** PyTorch, Graph Neural Networks, LLMs, RAG & GraphRAG, Hugging Face, Scikit-learn
+- **Data & MLOps:** Feast Feature Store, Apache Airflow, MLflow, Memgraph, PostgreSQL, Redis, Evidently AI
 
 ---
 
-## 📫 Connect
+## Key Honors & Activities
 
-[![LinkedIn profile link](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rrsathe)
-[![GitHub profile link](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rrsathe)
-[![GitLab profile link](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/rrsathe)
-[![Email contact link](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:07rahulsathe@gmail.com)
-
----
-
-> "Programs must be written for people to read, and only incidentally for machines to execute." — Harold Abelson
+- **IEEE CMES 2027 Submission:** Paper ID 181 on Graph ML for Huntington's Disease classification.
+- **Inter IIT Tech Meet 14.0:** Contingent member representing IIT Guwahati in Data Science & AI.
+- **Goldman Sachs India Hackathon 2026:** National Rank 244 (Quantitative Finance track).
+- **Machine Learning Hackathon (IIT Guwahati AI Club):** 2nd Place.
